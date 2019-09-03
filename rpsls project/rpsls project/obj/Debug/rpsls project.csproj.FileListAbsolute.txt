@@ -1,0 +1,7 @@
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\bin\Debug\rpsls project.exe.config
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\bin\Debug\rpsls project.exe
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\bin\Debug\rpsls project.pdb
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\obj\Debug\rpsls project.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\obj\Debug\rpsls project.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\obj\Debug\rpsls project.exe
+C:\Users\Ryan\Documents\DevCodeCamp Vault\rpsls\rpsls project\rpsls project\obj\Debug\rpsls project.pdb

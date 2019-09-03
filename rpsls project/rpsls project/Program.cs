@@ -10,6 +10,11 @@ namespace rpsls_project
     {
         static void Main(string[] args)
         {
+            // instantiate the Rules class
+            // then you can call DisplayRules with that object
+
+
+
         }
     }
 }
